@@ -12,7 +12,6 @@
 ✦ ───────── ✦ ───────── ✦ ───────── ✦
 ```
 
-<img src="reference.jpg" width="180px" align="right" />
 
 ### `⌗ jemmer almoneda`
 **`@shiros`** · *ACLC College Manila*
@@ -100,7 +99,7 @@ Turning logic into stories, one commit at a time.
 ---
 <div align="center">
 
-<img src="Sparkle-banner" width="100%" style="border-radius: 12px;" />
+<img src="Sparkle-banner.jpg" width="100%" style="border-radius: 12px;" />
 
 </div>
 
