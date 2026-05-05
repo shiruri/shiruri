@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="Banner.jpg" width="100%" style="border-radius: 12px;" />
+<img src="Banner.jpg" width="100%" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -34,7 +32,7 @@
 
 ## ꒰ 🎵 now playing ꒱
 
-[![Hated by Life Itself](https://img.shields.io/badge/♪%20Hated%20by%20Life%20Itself-Kanzaki%20Iori-ff4f7b?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/results?search_query=Hated+by+Life+Itself+Kanzaki+Iori)
+[![Hated by Life Itself](https://img.shields.io/badge/♪%20Hated%20by%20Life%20Itself-Kanzaki%20Iori-ff4f7b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Hated+by+Life+Itself+Kanzaki+Iori)
 
 *`▶ ──────────────── 2:47`*
 
@@ -68,7 +66,7 @@ Turning logic into stories, one commit at a time.
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1a1a2e?style=for-the-badge&logo=springboot&logoColor=ff4f7b)
-![Swing](https://img.shields.io/badge/Java%20Swing-1a1a2e?style=for-the-badge&logo=java&logoColor=ff4f7b)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ff4f7b)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-1a1a2e?style=for-the-badge&logo=renpy&logoColor=ff4f7b)
 
 ### Databases
@@ -89,23 +87,22 @@ Turning logic into stories, one commit at a time.
 
 ## ꒰ 📊 stats ꒱
 
-<img src="https://github-readme-stats.vercel.app/api?username=shiruri&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=ff4f7b&icon_color=ff4f7b&text_color=ffffff&border_color=ff4f7b&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiruri&layout=compact&theme=radical&bg_color=1a1a2e&title_color=ff4f7b&text_color=ffffff&border_color=ff4f7b&border_radius=10" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shiruri&show_icons=true&bg_color=1a1a2e&title_color=ff4f7b&icon_color=ff4f7b&text_color=ffffff&border_color=ff4f7b&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiruri&layout=compact&bg_color=1a1a2e&title_color=ff4f7b&text_color=ffffff&border_color=ff4f7b&border_radius=10" width="40%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiruri&theme=radical&background=1a1a2e&ring=ff4f7b&fire=ff4f7b&currStreakLabel=ff4f7b&border=ff4f7b&border_radius=10" width="50%" />
-
-</div>
-
----
-<div align="center">
-
-<img src="Sparkle-banner.jpg" width="100%" style="border-radius: 12px;" />
+<img src="https://streak-stats.demolab.com/?user=shiruri&background=1a1a2e&ring=ff4f7b&fire=ff4f7b&currStreakLabel=ff4f7b&sideLabels=ffffff&sideNums=ffffff&dates=aaaaaa&border=ff4f7b&border_radius=10" width="50%" />
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="Sparkle banner.jpg" width="100%" />
+
+</div>
+
+---
 
 <div align="center">
 
