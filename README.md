@@ -17,7 +17,7 @@
 > *"blending technical precision with a passion for interactive storytelling."*
 
 [![GitHub](https://img.shields.io/badge/GitHub-shiruri-1a1a2e?style=for-the-badge&logo=github&logoColor=ff4f7b)](https://github.com/shiruri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shiruri.github.io-1a1a2e?style=for-the-badge&logo=firefox&logoColor=ff4f7b)](https://shiruri.github.io/portfolio-page/about.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shiruri.github.io-1a1a2e?style=for-the-badge&logo=firefox&logoColor=ff4f7b)](https://shiruri.github.io/portfolio-page/)
 [![itch.io](https://img.shields.io/badge/itch.io-shiroi26-1a1a2e?style=for-the-badge&logo=itch.io&logoColor=ff4f7b)](https://shiroi26.itch.io/)
 
 ```
