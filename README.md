@@ -45,7 +45,6 @@
 ## ꒰ 👤 about me ꒱
 
 ```
-Student @ ACLC College Manila
 Java Developer · Visual Novel Creator · Web Tinkerer
 Turning logic into stories, one commit at a time.
 ```
