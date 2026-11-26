@@ -12,7 +12,7 @@
 
 
 ### `⌗ jemmer almoneda`
-**`@shiros`** · *ACLC College Manila*
+**`@shiros`** · *Quezon City University*
 
 > *"blending technical precision with a passion for interactive storytelling."*
 
